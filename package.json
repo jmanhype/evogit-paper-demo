@@ -1,0 +1,13 @@
+{
+  "name": "evogit-web",
+  "version": "1.0.0",
+  "dependencies": {
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build"
+  }
+}
